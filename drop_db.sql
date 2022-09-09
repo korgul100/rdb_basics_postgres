@@ -1,0 +1,1 @@
+DROP DATABASE person_things;

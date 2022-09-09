@@ -1,0 +1,1 @@
+ALTER TABLE person_club ADD PRIMARY KEY (person_id, club_id)

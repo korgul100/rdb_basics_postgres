@@ -1,0 +1,1 @@
+DELETE FROM shoe_instance WHERE make='Clarks';
